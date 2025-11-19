@@ -60,7 +60,7 @@ public class LongestNestedSet {
 }
 ```
 ## OUTPUT
-<img width="927" height="151" alt="image" src="https://github.com/user-attachments/assets/566b48c5-e998-4d5a-8ecf-8b3f06f7222e" />
+<img width="435" height="89" alt="image" src="https://github.com/user-attachments/assets/6c003441-e2bc-415f-ae4b-ec1b110ad8d6" />
 
 ## RESULT
 The program successfully computes the longest length of the nested set s[k] for the given permutation array.
