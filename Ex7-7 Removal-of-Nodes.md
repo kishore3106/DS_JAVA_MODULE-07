@@ -84,7 +84,7 @@ public class RemoveValueLinkedList {
 }
 ```
 ## OUTPUT
-<img width="943" height="209" alt="image" src="https://github.com/user-attachments/assets/a053d010-8c86-4f35-80da-051e624e5273" />
+<img width="711" height="378" alt="image" src="https://github.com/user-attachments/assets/70f588ac-de12-42b9-ae1e-38a456093a03" />
 
 ## RESULT
 The Java program successfully removes all nodes with the specified value (val) from the linked list and returns the new head.
