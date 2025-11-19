@@ -92,7 +92,7 @@ public class RightRotateLinkedList {
 }
 ```
 ## OUTPUT
-<img width="940" height="205" alt="image" src="https://github.com/user-attachments/assets/2bf22511-0bc0-448b-b9ad-b8351307e479" />
+<img width="882" height="256" alt="image" src="https://github.com/user-attachments/assets/6cc3aaf3-9af8-4331-a8fb-dc3d80997ee9" />
 
 ## RESULT
 Thus, the Java program to perform right rotation on a linked list is implemented successfully.
